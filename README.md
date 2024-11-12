@@ -75,6 +75,7 @@ This repository contains the best resources for System Design interview prep.
 - [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
 - [Why is Kafka Fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
 - [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8)
+- [Proxy vs Reverse Proxy vs Load Balancer](https://youtu.be/xo5V9g9joFs)
 
 ## Best Engineering Newsletters
 - [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
